@@ -39,5 +39,5 @@ Thank you for your contribution!!
 </p>
 
 <h2 align="center">Tip from us 😇</h1>
-<p align="center">It always takes time to understand and learn. So, don't worry at all. We know <b>you have got this</b>! 💪</p>
+<p align="center">It always takes time to understand and learn. So, don't worry at all. We know <b>you have understood this </b>! 💪</p>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; this repository!</h3>
